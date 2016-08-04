@@ -1,0 +1,14 @@
+name: Digital Splendor
+layout_spectrum: 0.13251907129156193
+typography_spectrum: 0.20178698039703302
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.9997057013669557
+  lightness: 0.5601716571162921
+  saturation: 0.9888896176888013
+  rhythmicContrast: 0.996347659227246
